@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(54, 192, 202);
+}
+ul {
+    text-align: center;
+    font-size: 18px;
+    line-height: 2em;
+}
+p {
+    font-size: 18px;
+}
+li::first-letter {  
+    font-weight: 
+    text-transform: uppercase;
+    font-size: 30px;
+    
+}
+#wrap {
+    padding: 10px;
+    width: 1000px;
+
+}
