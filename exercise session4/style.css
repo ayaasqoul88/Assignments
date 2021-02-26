@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.box1 {
+    background-color: orange;
+    float: left;
+  width: 50%;
+  height: 500px;
+
+color: white;
+font-size: 5em;
+
+}
+
+p {
+    position: relative;
+    left: 200px;
+    top: 200px;
+
+    
+}
+
+.box2 {
+    background-color: white;
+    float: right;
+    color: orange;
+      width: 50%;
+      height: 500px;
+      font-size: 5em;
+      
+}
+.box3 {
+    background-color: white;
+  color: springgreen;
+    width: 50%;
+    height: 500px;
+    font-size: 5em;
+}
+.box4 {
+    background-color: springgreen;
+    float: right;
+    width: 50%;
+    height: 500px;
+    color: white;
+font-size: 5em;
+}
