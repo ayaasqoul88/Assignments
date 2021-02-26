@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#one, #tow, #three {
+    width: 300px;;
+    height: 300px;
+}
+body {
+    background-color:#544F53;
+}
+
+h1 {
+    font-family: Nunito Sans;
+    color: white;
+}
+P {
+    color:white;
+
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.sub-div {
+display: flex;
+padding: 30px;
+justify-content: space-between;
+}
+.sub-tow {
+    display: flex;
+padding: 30px;
+justify-content: space-between;
+}
+div {
+    position: relative;
+}
+.para {
+    position: absolute;
+    top: 0px;
+    background-color: #AB1F83;
+    text-align: center;
+    height: 25px;
+    width: 30px;
+}
