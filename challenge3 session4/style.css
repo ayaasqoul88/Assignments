@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(42, 42, 97);
+}
+
+#wrap {
+    width: 100%;
+    font-size: 18px;
+}
+
+#nav {
+    width: 20em;
+    height: 600px;
+    
+    background-color: rgb(144, 183, 241);
+   float: left;
+   margin-left: 286px;
+    
+    
+}
+#content {
+    width: 40em;
+    height: 600px;
+    background-color: rgb(44, 100, 184);
+    float: right;
+    margin-right: 170px;
+
+}
+#list2 {
+  position: relative;
+  left: 5em;
+  line-height: 1.5em;
+}
+h1,h2 {
+    text-align: center;
+}
+footer {
+    clear: right;
+    font-size: 16px;
+}
+#para {
+    text-align: center;
+    line-height: 1.5em;
+}
+#list {
+    list-style-type: none;
+    text-align: center;
+    line-height: 1.5em;
+}
+.copyright {
+ direction: rtl;
+ font-size: 1.2em;
+ line-height: 2em;
+ margin-right: 170px;
+}
