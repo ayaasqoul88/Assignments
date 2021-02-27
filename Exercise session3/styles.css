@@ -1,0 +1,53 @@
+
+.style1{
+    width: 1300px;
+    height: 470px;
+    padding: 30px;
+background-color:#DFE6E9;
+margin-left: 35px;
+
+}
+
+p{
+    font-family: sans-serif;
+}
+h1{
+    font-family: sans-serif;
+}
+h1:hover{
+    color: aqua;
+
+}
+p::first-letter{
+    color: white;
+    background-color: goldenrod;
+}
+p::after{
+    content: "Read More";
+    color: blue;
+}
+#one{
+    width: 600px;
+    height: 250px;
+    padding-left: 30px;
+}
+#tow{
+    width: 600px;
+    height: 250px;
+}
+#three{
+    width: 600px;
+    height: 250px;
+    padding-left: 30px;
+}
+#four{
+    width: 600px;
+    height: 250px;
+}
+.style2{
+    width: 1300px;
+    height: 470px;
+    padding: 30px;
+background-color:#30336B;
+margin-left: 35px;
+}
