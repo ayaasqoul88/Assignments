@@ -3,29 +3,30 @@ body {
     padding: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(42, 42, 97);
+    box-sizing: border-box;
 }
 
 #wrap {
     width: 100%;
     font-size: 18px;
+    padding-left: 400px;
 }
 
 #nav {
-    width: 20em;
+    width: 20%;
     height: 600px;
     
     background-color: rgb(144, 183, 241);
    float: left;
-   margin-left: 286px;
+  
     
     
 }
 #content {
-    width: 40em;
+    width: 60%;
     height: 600px;
     background-color: rgb(44, 100, 184);
-    float: right;
-    margin-right: 170px;
+    
 
 }
 #list2 {
@@ -53,5 +54,5 @@ footer {
  direction: rtl;
  font-size: 1.2em;
  line-height: 2em;
- margin-right: 170px;
+ margin-right: 200px;
 }
